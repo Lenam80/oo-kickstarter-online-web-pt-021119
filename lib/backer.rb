@@ -16,7 +16,3 @@ awesome_project.backers
       backer = Backer.new("Avi")
       expect(backer.name).to eq("Avi")
     end
-
-
-
-
